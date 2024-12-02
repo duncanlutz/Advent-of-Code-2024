@@ -1,5 +1,0 @@
-1. Read text file
-2. Split inputs into two vectors
-3. Sort both
-4. Loop over the lists, measuring the distance between the numbers
-5. Add these numbers up and print result
